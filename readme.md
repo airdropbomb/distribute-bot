@@ -10,8 +10,7 @@ This bot automates to send heartbeat
 ## Requirements
 
 - NodeJS [Download](https://nodejs.org/en/download).
-- Distribute Account [Register Here](https://dashboard.distribute.ai/auth/signup?ref=ahlulmukh).
-- Combine with auto reff [Auto Referral](https://github.com/ahlulmukh/distributeai-autoref)
+- Distribute Account [Register Here](https://r.distribute.ai/c3378f1f0cbdd884).
 - Proxy (Optional).
 
 ## Installation
@@ -19,7 +18,7 @@ This bot automates to send heartbeat
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/distribute-bot.git
+   git clone https://github.com/airdropbomb/distribute-bot.git
    cd distribute-bot
    ```
 
@@ -56,17 +55,15 @@ node .
 
 ## Stay Connected
 
-- Channel Telegram : [Telegram](https://t.me/elpuqus)
-- Channel WhatsApp : [Whatsapp](https://whatsapp.com/channel/0029VavBRhGBqbrEF9vxal1R)
-- Discord : [Discord](https://discord.com/invite/uKM4UCAccY)
+- Channel Telegram : [Telegram](https://t.me/airdropbombnode)
+- Channel youtube : [Whatsapp](https://youtube.com/@airdropbombnode)
 
 ## Donation
 
 If you would like to support the development of this project, you can make a donation using the following addresses:
 
-- Solana: `6Y63evHexFANApfWEptqsJscyCgRG9PUZJwBncHbkKAU`
-- EVM: `0xa3575c33814d5c4d07cee913a393a99a2a15867e`
-- BTC: `bc1ppypst46a2wckpjd260kc4f8kkzf5w3u64wjlanudxezk0tyrts8sy26xs7`
+- Solana: `FbYFzZh4UqDxbfr47psQuQ1BAfD6r1kAzvsvsJdbXV1B`
+- EVM: `0x6Ff9f7991dDb946A096b937e5e02D9b7c422f89C`
 
 ## Disclaimer
 
